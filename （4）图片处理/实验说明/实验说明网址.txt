@@ -1,0 +1,4 @@
+1. 实验题目网址： https://www.cs.princeton.edu/courses/archive/spring24/cos226/assignments/seam/specification.php
+
+
+2. 实验验证辅助网址：https://www.cs.princeton.edu/courses/archive/spring24/cos226/assignments/seam/checklist.php
